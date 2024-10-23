@@ -1,5 +1,5 @@
 import pandas as pd
-from slearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 from db import obtener_conexion
 
 def generar_informe_ventas():
